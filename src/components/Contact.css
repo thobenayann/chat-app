@@ -24,6 +24,7 @@
   
   /* Status text */
   .Contact .status .status-text {
+    cursor: pointer;
     color: black;
     font-weight: bold;
     margin: 0;
